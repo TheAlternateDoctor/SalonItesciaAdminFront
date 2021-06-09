@@ -1,0 +1,23 @@
+*   Trying ::1:3000...
+* Connected to localhost (::1) port 3000 (#0)
+> POST /oauth/token HTTP/1.1
+Host: localhost:3000
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+* upload completely sent off: 94 out of 94 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Powered-By: Express
+< cache-control: no-store
+< pragma: no-cache
+< Content-Type: application/json; charset=utf-8
+< Content-Length: 81
+< ETag: W/"51-3YYlCb8HX5MSuWYgw/9x4ssMm9w"
+< Date: Wed, 09 Jun 2021 01:23:52 GMT
+< Connection: keep-alive
+< Keep-Alive: timeout=5
+< 
+* Connection #0 to host localhost left intact

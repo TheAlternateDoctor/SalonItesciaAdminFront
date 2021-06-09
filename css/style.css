@@ -1,0 +1,29 @@
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+
+hr.style12 {
+	height: 6px;
+	background: url(../bg/hr-12.png) repeat-x 0 0;
+    border: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.line_big {
+    width: 500px;
+}
+
+.line_small {
+    width: 250px;
+}
+
+.line_vsmall {
+    width: 125px;
+}
+
+.red {
+  color: 	#8B0000;
+}
